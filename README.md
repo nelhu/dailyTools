@@ -1,9 +1,13 @@
-<p align="center"><img width="130" src="https://github.com/nelhu/dailyTools/raw/master/burgerkingJS/icon.png"></p>
+<p align="center"><img width="130" src="https://github.com/nelhu/dailyTools/raw/master/burgerkingJS/burger_color.png"></p>
 <h1 align="center" >decilious hamburger</h1>
 
 ## 原由
 
-女朋友说想要领赠品但是需要填太多的问题实在让人不耐烦
+- 有没有想过当炸鸡汉堡遇上爱吃它们的女友
+
+- 女友说想要领赠品但是需要填太多的问题实在让人不耐烦
+
+- 本着大男子主义和程序员本就该什么都会的的现实（比如该会修电脑...）， 决定自己写一个
 
 ## 实现
 
